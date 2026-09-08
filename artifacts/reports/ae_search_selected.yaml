@@ -1,0 +1,14 @@
+selection_period: development
+labels_used: true
+target_recall: 0.998
+seeds: 3
+training_numeric_weight: 0.25
+scoring_numeric_weight: 0.25
+min_recall: 0.9980002603903808
+mean_precision: 0.6226849670263708
+mean_f1: 0.766409379501236
+mean_mcc: 0.6755985984666717
+mean_auprc: 0.9105091493400602
+mean_auroc: 0.968837808119083
+max_fpr: 0.29004365263459564
+eligible: true

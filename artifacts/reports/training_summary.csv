@@ -1,0 +1,3 @@
+model,training_rows,feature_width,training_seconds,training_events_per_second,support_vectors,threshold,threshold_mode
+ocsvm,865941,83,57.070932500006165,15173.06555311509,876.0,-144.7100256830838,benign_validation_quantile
+ae,865941,94,308.2873759170179,2808.8759632930487,,1.0114956239704043e-05,benign_validation_quantile

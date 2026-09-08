@@ -1,0 +1,5 @@
+fusion:
+  alpha_start: 0.0
+  alpha_stop: 1.0
+  alpha_step: 0.025
+  selection: minimum_false_positives_at_ocsvm_recall

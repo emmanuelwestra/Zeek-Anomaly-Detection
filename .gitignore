@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+env/
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+artifacts/models/*
+artifacts/preprocessors/*
+artifacts/thresholds/*
+artifacts/checkpoints/*
+artifacts/score_cache/*
+!artifacts/**/.gitkeep

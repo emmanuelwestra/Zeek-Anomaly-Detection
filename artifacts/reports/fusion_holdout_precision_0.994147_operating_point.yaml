@@ -1,0 +1,26 @@
+rows: 3018656
+threshold: 10.14338543757558
+accuracy: 0.9975002120148835
+precision: 0.9951021970804607
+recall: 0.9999164273903258
+f1: 0.9975035035644384
+mcc: 0.9950120633371256
+auroc: 0.9977134870925994
+auprc: 0.9954875199766985
+false_positive_rate: 0.0049107039447777445
+false_negative_rate: 8.357260967412651e-05
+true_positives: 1507545
+true_negatives: 1503565
+false_positives: 7420
+false_negatives: 126
+alerts: 1514965
+alerts_per_10000_events: 5018.673873405914
+mode: retrospective_constraint
+objective: maximum_recall_at_minimum_precision
+minimum_precision: 0.994147
+minimum_recall: null
+labels_used: true
+prevalence: 0.4994510802158312
+model: fusion
+period: holdout
+warning: Retrospective and prevalence-dependent; not deployable.

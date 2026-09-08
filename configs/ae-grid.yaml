@@ -1,0 +1,5 @@
+search:
+  training_numeric_weight: [0.25, 0.50, 0.75]
+  scoring_numeric_weight: [0.05, 0.10, 0.25]
+  seeds: [7, 42, 123]
+  target_recall: 0.998

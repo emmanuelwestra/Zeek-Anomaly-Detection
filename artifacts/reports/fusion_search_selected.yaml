@@ -1,0 +1,31 @@
+alpha: 0.30000000000000004
+threshold: 9.773742333187789
+mode: development_matched_ocsvm_recall
+selection_period: development
+labels_used: true
+ocsvm_reference_threshold: -144.7100256830838
+ocsvm_reference_recall: 0.9954453626374913
+ocsvm_reference_true_positives: 2721902
+selection_metrics:
+  run_name: alpha0.300
+  alpha: 0.30000000000000004
+  eligible: true
+  rows: 9050126
+  threshold: 9.773742333187789
+  accuracy: 0.9389451594375592
+  precision: 0.8344260134089104
+  recall: 0.9954468255047989
+  f1: 0.9078518556072127
+  mcc: 0.8702368180505999
+  auroc: 0.9568952784537672
+  auprc: 0.8348244743234247
+  false_positive_rate: 0.0855167303432519
+  false_negative_rate: 0.004553174495201063
+  true_positives: 2721906
+  true_negatives: 5775666
+  false_positives: 540104
+  false_negatives: 12450
+  alerts: 3262010
+  alerts_per_10000_events: 3604.380756687807
+  mode: retrospective_recall_floor
+  labels_used: true
